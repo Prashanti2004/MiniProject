@@ -51,20 +51,3 @@ Enter role: Member
 Member added successfully!
 
 
----
-
-### How to add it in GitHub:
-1. **Create or Edit the `README.md` file**:
-   - If you don't have a `README.md` file, simply create a new file named `README.md` in the root of your repository.
-   - If you already have the file, open it for editing.
-
-2. **Paste the Markdown content**:
-   - Copy the entire markdown code from above.
-   - Paste it into your `README.md` file.
-
-3. **Save and commit the file**:
-   - Once you’ve pasted the content, save the file.
-   - Commit and push the changes to your GitHub repository.
-
-### What will be rendered:
-GitHub will automatically render the `README.md` file in a readable format, showing headers, bullet points, code blocks, and links just like the example you requested. You don’t need to worry about the styling—GitHub handles that for you!
